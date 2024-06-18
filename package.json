@@ -1,5 +1,6 @@
 {
   "name": "nest-swc-coverage",
+  "packageManager": "yarn@4.0.2",
   "version": "0.0.1",
   "description": "",
   "author": "",
